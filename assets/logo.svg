@@ -1,0 +1,22 @@
+<svg viewBox="0 0 600 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .word{font-family:'Poppins','Helvetica Neue',Arial,sans-serif;font-weight:800;fill:#1B2A4A;letter-spacing:4px;}
+      .sub{font-family:'Poppins','Helvetica Neue',Arial,sans-serif;font-weight:600;fill:#6B6B6B;letter-spacing:10px;}
+      .tag{font-family:Georgia,serif;font-style:italic;fill:#6B6B6B;letter-spacing:1px;}
+      .kanji{font-family:'Noto Serif CJK JP',serif;fill:#F6F1E7;}
+    </style>
+  </defs>
+  <rect width="600" height="700" fill="#FFFFFF"/>
+
+  <!-- hanko seal -->
+  <rect x="255" y="150" width="90" height="90" rx="8" fill="#C79A3E"/>
+  <rect x="264" y="159" width="72" height="72" rx="4" fill="none" stroke="#1B2A4A" stroke-width="3"/>
+  <text x="300" y="215" text-anchor="middle" class="kanji" font-size="60" fill="#1B2A4A">匠</text>
+
+  <text x="300" y="345" text-anchor="middle" class="word" font-size="70">TAKUMI</text>
+  <text x="300" y="385" text-anchor="middle" class="sub" font-size="20">ASSOCIATION</text>
+
+  <line x1="220" y1="420" x2="380" y2="420" stroke="#C79A3E" stroke-width="3"/>
+  <text x="300" y="455" text-anchor="middle" class="tag" font-size="18">Free Japanese &amp; IT Education for All</text>
+</svg>
