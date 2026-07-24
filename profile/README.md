@@ -1,7 +1,7 @@
 # 💻 Takumi Association
 
 <p align="center">
-  <img src="assets/logo.svg" alt="Takumi Association Logo" width="240">
+  <img src="https://github.com/<ORG_NAME>/.github/blob/main/assets/logo.svg?raw=true" width="220" alt="Takumi Association">
 </p>
 
 <p align="center">
