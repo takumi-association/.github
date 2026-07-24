@@ -1,6 +1,10 @@
 # 💻 Takumi Association
 
 <p align="center">
+  <img src="assets/logo.svg" alt="Takumi Association Logo" width="240">
+</p>
+
+<p align="center">
   <strong>Free Japanese & IT Education for All</strong>
 </p>
 
@@ -21,11 +25,11 @@ Our mission is to empower learners by providing quality educational resources, p
 
 ## 🌟 What We Do
 
-* Japanese language learning resources
-* IT courses and learning materials
-* Open-source educational projects
-* Community events and workshops
-* Career guidance and mentorship
+* 📚 Japanese language learning resources
+* 💻 IT courses and learning materials
+* 🌐 Open-source educational projects
+* 🤝 Community events and workshops
+* 🎓 Career guidance and mentorship
 
 ## 🤝 Contributing
 
@@ -33,11 +37,11 @@ We welcome contributions from educators, developers, designers, translators, and
 
 You can help by:
 
-* Improving documentation
-* Fixing bugs and adding new features
-* Creating educational content
-* Translating learning materials
-* Sharing ideas and feedback
+* Improve documentation
+* Fix bugs and add new features
+* Create educational content
+* Translate learning materials
+* Share ideas and feedback
 
 ## 💙 Our Values
 
